@@ -17,5 +17,9 @@ class NewFeatureClass: NSObject {
     func testFeature1() -> Void {
         print("feature!")
     }
+    
+    func developer1createsFeature2() -> Void {
+        print("feature2!")
+    }
 
 }
