@@ -12,6 +12,8 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    
+    //cherry pick from dev 1
 
     //conflict MERGED
     //commit 1
