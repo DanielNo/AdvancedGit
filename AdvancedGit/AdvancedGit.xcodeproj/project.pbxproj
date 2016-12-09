@@ -14,6 +14,7 @@
 		9A1039371DF9BF130034BDCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A1039351DF9BF130034BDCA /* LaunchScreen.storyboard */; };
 		9A10393F1DF9F6470034BDCA /* NewFeatureClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A10393E1DF9F6470034BDCA /* NewFeatureClass.swift */; };
 		9A159C011DFB06C70079B0FB /* AnotherFeatureClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A159C001DFB06C70079B0FB /* AnotherFeatureClass.swift */; };
+		9A159C031DFB4C160079B0FB /* DevelopmentTeamDoingStuff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A159C021DFB4C160079B0FB /* DevelopmentTeamDoingStuff.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9A1039381DF9BF130034BDCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A10393E1DF9F6470034BDCA /* NewFeatureClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewFeatureClass.swift; sourceTree = "<group>"; };
 		9A159C001DFB06C70079B0FB /* AnotherFeatureClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnotherFeatureClass.swift; sourceTree = "<group>"; };
+		9A159C021DFB4C160079B0FB /* DevelopmentTeamDoingStuff.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DevelopmentTeamDoingStuff.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9A1039381DF9BF130034BDCA /* Info.plist */,
 				9A10393E1DF9F6470034BDCA /* NewFeatureClass.swift */,
 				9A159C001DFB06C70079B0FB /* AnotherFeatureClass.swift */,
+				9A159C021DFB4C160079B0FB /* DevelopmentTeamDoingStuff.swift */,
 			);
 			path = AdvancedGit;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			files = (
 				9A10393F1DF9F6470034BDCA /* NewFeatureClass.swift in Sources */,
 				9A10392F1DF9BF130034BDCA /* ViewController.swift in Sources */,
+				9A159C031DFB4C160079B0FB /* DevelopmentTeamDoingStuff.swift in Sources */,
 				9A10392D1DF9BF130034BDCA /* AppDelegate.swift in Sources */,
 				9A159C011DFB06C70079B0FB /* AnotherFeatureClass.swift in Sources */,
 			);
