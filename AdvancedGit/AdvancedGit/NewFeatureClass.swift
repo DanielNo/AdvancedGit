@@ -26,5 +26,10 @@ class NewFeatureClass: NSObject {
         print("feature3!")
     }
 
+    
+    
+    func anothaOne(){
+        
+    }
 
 }
