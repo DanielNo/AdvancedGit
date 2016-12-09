@@ -18,8 +18,14 @@ class DevelopmentTeamDoingStuff: NSObject {
         print("feature2!")
     }
 
-    
-    
+    func devDoinStuff3() -> Void {
+        print("feature2!")
+    }
+
+    func devDoinStuff4() -> Void {
+        print("feature2!")
+    }
+
     
     
 }
