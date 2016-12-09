@@ -10,21 +10,6 @@ import UIKit
 
 class NewFeatureClass: NSObject {
     
-    
-    
-    
-    
-    func testFeature1() -> Void {
-        print("feature!")
-    }
-    
-    func developer1createsFeature2() -> Void {
-        print("feature2!")
-    }
-    
-    func developer2createsFeature3() -> Void {
-        print("feature3!")
-    }
 
 
 }
