@@ -24,6 +24,10 @@ class ViewController: UIViewController {
         print("this feature is so cool!!")
     
     }
+    
+    func checkoutCartFunctionality() {
+        print("checkout cart items")
+    }
 
 }
 
